@@ -1,0 +1,5 @@
+{
+    "AVFoundation.framework": 1,
+    "AudioToolbox.framework": 1,
+    "WebKit.framework": 1
+}
